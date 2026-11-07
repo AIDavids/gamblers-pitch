@@ -1,0 +1,11 @@
+# Libraries for The Gambler's Pitch (versions are recorded automatically in reports/pip_freeze.txt)
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+mplsoccer
+statsbombpy
+requests
+jupyterlab
+ipywidgets

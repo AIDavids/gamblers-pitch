@@ -1,1 +1,14 @@
+# Python / Jupyter
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Big data files are NOT uploaded to GitHub (they can always be re-downloaded)
 data/
+
+# Windows / editor noise
+Thumbs.db
+.vscode/
